@@ -1,0 +1,15 @@
+.section-about{
+    background-color: $grey-light-1;
+    margin-top: -20vh;
+    padding: 25rem 0;
+}
+
+.section-features{
+    padding: 20rem 0;
+    background-image: linear-gradient(
+        to right bottom,
+        $light-green-gradient,
+        $dark-green-gradient),
+        url(../../img/nat-4.jpg);
+    background-size: cover;
+}
